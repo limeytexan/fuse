@@ -7,3 +7,5 @@ seconds and writes its name and the store paths of its catalog inputs.
 | package | build time | catalog inputs |
 |---|---|---|
 | `fuse` | 9 s |  |
+
+test difference
